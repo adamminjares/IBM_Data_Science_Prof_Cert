@@ -3,7 +3,7 @@
 **Adam Minjares**  
 **March 2026 – October 2026**
 
-This repository contains selected Jupyter notebooks and coursework completed as part of the **IBM Data Science Professional Certificate** on Coursera.
+This repository contains Jupyter notebooks and related coursework completed as part of the **IBM Data Science Professional Certificate** on Coursera. It documents the concepts, tools, and practical exercises I worked through while developing my data science skills.
 
 ## Repository Structure
 
@@ -17,6 +17,19 @@ The notebooks cover topics including:
 - Data wrangling, exploratory data analysis (EDA), and data visualization
 - Supervised and unsupervised machine learning, including regression, classification, clustering, dimension reduction, and model evaluation
 - Applied data science projects using real-world datasets, including stock data, used cars, housing, insurance costs, wildfires, rainfall prediction, and SpaceX Falcon 9 launches
+
+## Courses
+
+1. What is Data Science?
+2. [Tools for Data Science](./02_Tools_for_DS)
+3. [Data Science Methodology](./03_DS_Methodology)
+4. [Python for Data Science, AI & Development](./04_Python_for_DS_AI_Dev)
+5. [Python Project for Data Science](./05_Python_Project_for_DS)
+6. [Databases and SQL for Data Science with Python](./06_Databases_and_SQL_for_DS_with_Python)
+7. [Data Analysis with Python](./07_Data_Analysis_with_Python)
+8. [Data Visualization with Python](./08_Data_Visualization_with_Python)
+9. [Machine Learning with Python](./09_Machine_Learning_with_Python)
+10. [Applied Data Science Capstone](./10_Applied_DS_Capstone_Project)
 
 ## Notebook Naming Convention
 
@@ -46,7 +59,3 @@ Where:
 ```
 
 This naming convention allows each notebook to be identified by **completion date, course, module, sequence, and subject** without needing to open the file.
-
-## Purpose
-
-This repository serves primarily as a record of my coursework and progression through the IBM Data Science Professional Certificate. It is intended to document the concepts, tools, and practical exercises I worked through while developing my data science skills.
