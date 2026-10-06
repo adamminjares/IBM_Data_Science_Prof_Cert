@@ -17,6 +17,7 @@ This repository contains Jupyter notebooks and related coursework completed as p
 8. [Data Visualization with Python](./08_Data_Visualization_with_Python)
 9. [Machine Learning with Python](./09_Machine_Learning_with_Python)
 10. [Applied Data Science Capstone](./10_Applied_DS_Capstone_Project)
+11. [Generative AI: Elevate Your Data Science Career](./11_Generative_AI)
 
 ## Repository Structure
 
