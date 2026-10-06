@@ -1,4 +1,4 @@
-# 11 — Generative AI: Enhance Your Data Science Career
+# 11 — Generative AI: Elevate Your Data Science Career
 
 Coursework focused on applying generative AI to practical data science problems, with an emphasis on data generation, data augmentation, feature engineering, data visualization, modeling, and data-driven insights.
 
