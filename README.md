@@ -36,7 +36,7 @@ The notebooks cover topics including:
 To improve consistency and make the notebooks easier to identify and navigate, filenames have been standardized using the following structure:
 
 ```text
-YYMMDD_CXXMYY-ZZ_Description
+YYMMDD_CXXMYY-ZZ_Contents
 ```
 
 Where:
@@ -47,7 +47,7 @@ Where:
 | `CXX` | Certificate course number | `C05` |
 | `MYY` | Course module number | `M01` |
 | `ZZ` | Notebook number within the module | `01` |
-| `Description` | Brief description of the notebook's lessons and topics | `Web_Scraping_with_BeautifulSoup` |
+| `Contents` | Brief description of the notebook's lessons and topics | `Web_Scraping_with_BeautifulSoup` |
 
 ### Examples
 
