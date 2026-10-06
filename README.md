@@ -5,19 +5,6 @@
 
 This repository contains Jupyter notebooks and related coursework completed as part of the **IBM Data Science Professional Certificate** on Coursera. It documents the concepts, tools, and practical exercises I worked through while developing my data science skills.
 
-## Repository Structure
-
-The repository is organized into separate folders corresponding to the individual courses in the certificate program. Jupyter notebooks from each course are stored in the folder for that course.
-
-The notebooks cover topics including:
-
-- Jupyter Notebook workflows, Python programming, NumPy, and Pandas
-- Data acquisition, APIs, web scraping, and data file formats
-- SQL, SQLite, database querying, and SQL-Python integration
-- Data wrangling, exploratory data analysis (EDA), and data visualization
-- Supervised and unsupervised machine learning, including regression, classification, clustering, dimension reduction, and model evaluation
-- Applied data science projects using real-world datasets, including stock data, used cars, housing, insurance costs, wildfires, rainfall prediction, and SpaceX Falcon 9 launches
-
 ## Courses
 
 1. What is Data Science?
@@ -30,6 +17,19 @@ The notebooks cover topics including:
 8. [Data Visualization with Python](./08_Data_Visualization_with_Python)
 9. [Machine Learning with Python](./09_Machine_Learning_with_Python)
 10. [Applied Data Science Capstone](./10_Applied_DS_Capstone_Project)
+
+## Repository Structure
+
+The repository is organized into separate folders corresponding to the individual courses in the certificate program. Jupyter notebooks from each course are stored in the folder for that course.
+
+The notebooks cover topics including:
+
+- Jupyter Notebook workflows, Python programming, NumPy, and Pandas
+- Data acquisition, APIs, web scraping, and data file formats
+- SQL, SQLite, database querying, and SQL-Python integration
+- Data wrangling, exploratory data analysis (EDA), and data visualization
+- Supervised and unsupervised machine learning, including regression, classification, clustering, dimension reduction, and model evaluation
+- Applied data science projects using real-world datasets, including stock data, used cars, housing, insurance costs, wildfires, rainfall prediction, and SpaceX Falcon 9 launches
 
 ## Notebook Naming Convention
 
